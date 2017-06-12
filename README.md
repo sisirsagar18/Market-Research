@@ -1,1 +1,1 @@
-# This repository contains an array of various independent projects that I have worked on.
+# This repository contains Classifer Models trained on marketing campaign data, that predict whether a customer has responded to the campaign or not.
